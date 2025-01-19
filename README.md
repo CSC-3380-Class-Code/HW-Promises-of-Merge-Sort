@@ -1,1 +1,1 @@
-# HW6-Promises-of-Merge-Sort
+# HW-Promises-of-Merge-Sort
